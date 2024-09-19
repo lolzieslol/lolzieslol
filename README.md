@@ -1,5 +1,5 @@
 ## Hi there, I'm Vilde Bjorøy
-Student at University of Bergen. 
+Studying Information Science at the University of Bergen. 
 
 <!--
 **lolzieslol/lolzieslol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
